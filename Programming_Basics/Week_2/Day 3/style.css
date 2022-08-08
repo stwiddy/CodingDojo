@@ -1,0 +1,16 @@
+*{
+    background-color: black;
+    color: white
+}
+
+.box {
+    background-color: rgb(43, 161, 215);
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+}
+
+.partent {
+    display: flex;
+    justify-content: flex-start;
+}
