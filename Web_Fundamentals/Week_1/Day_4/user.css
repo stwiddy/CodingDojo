@@ -1,0 +1,50 @@
+*{
+margin-left: auto;
+margin-right: auto;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.profileBox {
+border: gray;
+border: solid;
+background: white;
+width: 800px;
+}
+
+
+.bar {
+    background: #17a2b8;
+    height: 100px;
+    width: 800px;
+}
+
+.card {
+margin-top: 20px;
+margin-left: 20px;
+}
+
+.profile_Pic {
+    height: 110px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.Marker {
+    height: 20px;
+    float: left;
+    margin-right: 15px;
+    margin-top: 2px;
+}
+
+.gear {
+    height: 15px;
+    margin-right: 5px; 
+}
+
+.edit {
+    margin-bottom: 20px;
+}
+
+.edittext {
+    font-size: large;
+}

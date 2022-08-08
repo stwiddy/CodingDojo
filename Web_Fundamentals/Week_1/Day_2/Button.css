@@ -1,0 +1,25 @@
+.button {
+    background-color: lightgrey;
+color: green;
+height: 45px;
+width: 200px;
+margin-bottom: 20px;
+border-radius: 10%;
+}
+
+.button1 {
+    background-color: aqua;
+    color: white;
+    margin-bottom: 20px;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+}
+
+.button2 {
+background-color: blue;
+box-shadow: 10px 10px 10px black;
+color: white;
+height: 50px;
+width: 200px;
+}

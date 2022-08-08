@@ -1,0 +1,29 @@
+.h1 {
+    vertical-align: middle;
+}
+#Green{
+    width: 100px;
+    height: 200px;
+    padding: 0;
+    background-color: green;
+    margin: 0;
+    display: inline-flex
+    
+}
+#White{
+    width: 100px;
+    height: 200px;
+    padding: 0;
+    background-color: white;
+    margin: 0;
+    display: inline-flex
+}
+#Red{
+    width: 100px;
+    height: 200px;
+    padding: 0;
+    background-color: red;
+    margin: 0;
+    display: inline-flex
+    
+}

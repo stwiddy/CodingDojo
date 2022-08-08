@@ -1,0 +1,223 @@
+/* font */
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* Navbar */
+
+
+.nav {
+    display: flex;
+    background-color: black;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.nav-title {
+    margin-left: 200px;
+    color: white;
+}
+
+.nav-links {
+    display: flex;
+    gap: 20px;
+    margin-right: auto;
+    text-decoration: none;
+    color: white;
+    list-style: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: white;
+    background-color: gray;
+}
+
+.btn {
+    display: flex;
+    justify-content: right;
+    margin-right: auto;
+}
+
+/* Columns */
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+#leftcol {
+    align-items: flex-start;
+}
+
+#rightcol {
+    align-items: flex-end;
+}
+
+.profileBox {
+    border: gray;
+    border: solid;
+    background: white;
+    width: 800px;
+    margin-top: 20px;
+}
+
+.bar {
+    background: #17a2b8;
+    height: 100px;
+    width: 800px;
+}
+
+.card {
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.profile_Pic {
+    height: 110px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.Marker {
+    height: 20px;
+    float: left;
+    margin-right: 15px;
+    margin-top: 2px;
+}
+
+.gear {
+    height: 15px;
+    margin-right: 5px; 
+}
+
+.edit {
+    margin-bottom: 20px;
+}
+
+.summary {
+    border: gray;
+    width: 800px;
+    background: white;
+    border: solid;
+    margin-top: 50px;
+}
+
+.sheader {
+    background-color: #383838;
+    height: 80px;
+    font-size: x-large;
+    margin-bottom: 30px;
+    color: white;
+    padding-top: 1px;
+    padding-bottom: 5px;
+}
+
+.ed {
+    margin-left: 20px;
+}
+
+
+.content {
+    margin-left: 20px;
+}
+
+.a2 {
+    font-size: large;
+    color: blue;
+    text-decoration: underline;
+}
+
+
+.connectionbox {
+    border: gray;
+    border: solid;
+    background: white;
+    width: 500px;
+    margin-top: 20px;
+}
+
+.connection {
+    background-color: #383838;
+    padding-top: 2px;
+    font-size: larger;
+    color: white;
+}
+
+.notification {
+    float: left;
+    padding-right: 20px;
+}
+
+.yconnection {
+    border: gray;
+    border: solid;
+    background: white;
+    width: 500px;
+    margin-top: 20px;
+}
+
+.notification2 {
+    float: left;
+    padding-right: 20px;
+}
+
+.yconhead {
+    background-color: #383838;
+    padding-top: 2px;
+    font-size: large;
+    color: white;
+}
+
+.viewmore {
+    margin-top: 2px;
+    border: gray;
+    border: solid;
+}
+
+
+/* Icon Sizes */
+.accept,.decline {
+    height: 20px;
+}
+
+.user {
+    display: flex;
+    align-items: center;
+    flex: 1;
+    margin-left: 20px;
+}
+
+.check {
+    display: flex;
+    align-items: center;
+    flex: 1;
+    justify-content: flex-end;
+    gap: 20px;
+}
+
+.todd,.phill {
+    height: 30px;
+    padding-right: 10px;
+}
+
+.ycon {
+    height: 30px;
+    padding-right: 10px;
+}
+
+.flexcon {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.usercon {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}

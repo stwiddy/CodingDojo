@@ -1,0 +1,24 @@
+#cloud{
+    width: auto;
+    background-color: black;
+    margin: auto;
+    color: teal;
+    text-align: start;
+    height: 50px;
+}
+#projects{
+    width: auto;
+    background-color:purple ;
+    color: white;
+    text-align: center;
+    height: 35px;
+    vertical-align: top;
+}
+#contact{
+    width: auto;
+    background-color: lightblue;
+    color: darkblue;
+    text-align: right;
+    height: 20px;
+    vertical-align: top;
+}
