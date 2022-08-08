@@ -1,0 +1,39 @@
+Code Snippet 1
+
+Input Function (Hello) | Output (Hello,Dojo)
+
+Code Snippet 2
+
+Input function (Hello) | Output (var = 15 "result is 15 , Hello)
+
+Code Snippet 3
+
+Input Function (NumPlus) | Output ( 15+3 x=18 num=3)
+
+Code Snippet 4
+
+Input Function (LogAndReturn) | Output (15,10,10,15)
+
+Code Snippet 5
+
+Input Function (TimesTwo) | Output (15,10, 10(2) 20 ,15
+
+Code Snippet 6
+
+Input Function (timesTwoAgain) Output num (3,5) (3*2)+(5*2) = 16
+
+Code Snippet 7
+
+Input Function (sumNums) | Output 2+3= 5 3+5=8 (5,8)
+
+Code Snippet 8
+
+Input Function (printSumNums) | Output (2,(2+3) 5, 3, (3+5) 8)
+
+Code Snippet 9
+
+Input Function (sumNums) | Output (2+3= 5, 3+5 = 8, 5+8=13)
+
+Code Snippet 10 
+
+Input Function (sumNums) | Output (2+3 = 5, 3, 3+3 = 6, 3, 2+3 = 5, 3+5 = 8, 2+3+3+2+1+2+1+2+3 = 19 
