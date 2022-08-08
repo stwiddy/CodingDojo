@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Likes Part II</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="dflex">
+        <h1>Network</h1>
+    </header>
+    <main>
+        <h1>Your Feed</h1>
+        <div class="flexbox dflex acenter justify-between">
+            <div class="avatar">
+                <img src="user-circle.png" alt="usercircle">
+                <a href="">Add an avatar</a>
+                <h3>James Doe</h3>
+            </div>
+            <div class="feedsum">                
+                <div class="feed">
+                    <h2>Neil M</h2>
+                    <h3 id="neil">9 like(s)</h3>
+                    <button class="like" onclick="like1()">like</button>
+                    <p>I just set up this new discord bot, let me know what you all think. <a href="link">link</a></p>
+                </div>
+                <div class="feed">
+                    <h2>Nichole K</h2>
+                    <h3 id="nic">12 like(s)</h3>
+                    <button class="like" onclick="like2()">like</button>
+                    <p>Just Finished my <a href="n">next comic</a>, check it out!</p>
+                </div>
+                <div class="feed">
+                    <h2>Jim R</h2>
+                    <h3 id="jim">9 like(s)</h3>
+                    <button class="like" onclick="like3()">like</button>
+                    <p>I can't stop listening to the <a href="">new album</a>. Who else is liking it?</p>
+                </div>
+            </div>
+        </div>
+    </main>
+</body>
+<script src="script.js"></script>
+</html>

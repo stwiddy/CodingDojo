@@ -1,0 +1,63 @@
+/* CSS Reset */
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* Utility */
+
+.dflex {
+    display: flex;
+}
+
+.justify-around {
+    justify-content: space-around;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.justify-evenly {
+    justify-content: space-evenly;
+}
+
+.acenter {
+    align-items: center;
+}
+/* Header */
+
+header {
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+}
+
+/* Main */
+
+main h1 {
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 30px;
+}
+
+.avatar {
+    border: 2px black solid;
+    height: auto;
+    width: auto;
+}
+
+.avatar img {
+    height: 100px;
+    margin-bottom: 40px;
+}
+
+.feed {
+    border: 2px black solid;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+
