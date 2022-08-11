@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+table{
+    border: 2px solid black;
+    padding: 5px;
+    width: 900px;
+    height: 500px;
+    border-collapse: collapse;
+    margin: 10px;
+    margin-left: 500px;
+}
+
+th{
+    padding: 5px;
+    border: 2px solid black;
+    text-align: left;
+    background-color: lightgrey;
+}
+
+td{
+    padding: 5px;
+    border: 2px solid black;
+}
