@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Dog</title>
+</head>
+<body>
+    <h1>Update your friend!</h1>
+    <form action="/dogs/{{dog.id}}/update" method="post">
+        <p>Name</p>
+        <input type="text" name="name" id="name" value="{{dog.name}}">
+        <p>Breed</p>
+        <input type="text" name="breed" id="breed" value="{{dog.breed}}">
+        <p>Color</p>
+        <input type="text" name="color" id="color" value="{{dog.color}}">
+        <button>Finish Editing</button>
+        {% for message in get_flashed_messages() %} 
+        <p>{{message}}</p>
+        {% endfor %} 
+    </form>
+</body>
+</html>

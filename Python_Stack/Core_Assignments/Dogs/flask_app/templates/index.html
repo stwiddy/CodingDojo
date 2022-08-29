@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Dogs</title>
+</head>
+<body>
+    <h1>All the dogs!</h1>
+    <a href="/dogs/new">Add a dog</a>
+    <ul>
+        {% for dog in dogs %}
+        <li>{{dog.id}}). Name: <a href="/dogs/{{dog.id}}">{{dog.name}}</a> Breed: {{dog.breed}} Color: {{dog.color}} |
+        <a href="/dogs/{{dog.id}}/edit">edit</a> | <a href="/dogs/{{dog.id}}/delete">delete</a>
+        </li>
+        {% endfor %}
+    </ul>
+    <a href="/awards/new">Give a dog an award! | <a href="/awards">See all awards</a></a> 
+</body>
+</html>
