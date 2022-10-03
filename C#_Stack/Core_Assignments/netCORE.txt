@@ -1,0 +1,9 @@
+The template "Console App" was created successfully.
+
+Processing post-creation actions...
+Running 'dotnet restore'
+
+
+Restore succeeded.
+
+Hello, World!
