@@ -1,0 +1,36 @@
+@{
+    ViewData["Title"] = "Dojo Survey Index";
+}
+
+@model DojoSurvey.Models.User
+<form asp-controller="Home" asp-action="submit" method="POST">
+    <div class="">
+        <label asp-for="Name"></label>
+        <span asp-validation-for="Name" class="text-danger"></span>
+        <input asp-for="Name" class="form-control">
+    </div>
+
+    <div class="">
+        <label asp-for="EnumLocation"></label>
+        <span asp-validation-for="EnumLocation" class="text-danger"></span>
+        <select asp-for="EnumLocation" asp-items="@Html.GetEnumSelectList<LocationEnum>()" class="form-control">
+        </select>
+    </div>
+
+    <div class="">
+        <label asp-for="EnumLanguages"></label>
+        <span asp-validation-for="EnumLanguages" class="text-danger"></span>
+        <select asp-for="EnumLanguages" asp-items="@Html.GetEnumSelectList<LanguageEnum>()" class="form-control">
+            <option value="">Select your Favorite Language</option>
+        </select>
+    </div>
+
+    <div class="">
+        <label asp-for="Comment"></label>
+        <span asp-validation-for="Comment" class="text-danger"></span>
+        <input asp-for="Comment" class="form-control">
+    </div>
+    <div class="">
+        <input type="submit" value="Submit">
+    </div>
+</form>

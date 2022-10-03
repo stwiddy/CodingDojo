@@ -1,0 +1,27 @@
+
+<@{
+    ViewData["Title"] = "Dojo Survey Submitted";
+}
+
+@model DojoSurvey.Models.User
+<main id="result">
+    <h1>Submitted Info</h1>
+    
+    <div class="">
+        <div class="">
+            <p>Name:</p>
+            <p>Location:</p>
+            <p>Favorite Language:</p>
+            <p>Comment:</p>
+        </div>
+        <div class="">
+            <p>@Model.Name</p>
+            <p>@Model.EnumLocation</p>
+            <p>@Model.EnumLanguages</p>
+            <p>@Model.Comment</p>
+        </div>
+    </div>
+    <div class="">
+        <button><a href="/">Go Back</a></button>
+    </div>
+</main>
