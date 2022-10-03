@@ -1,0 +1,15 @@
+C:\Users\Shaun\OneDrive\Desktop\Coding_Dojo\C#_Stack\Core_Assignments\Wizard_Ninja_Samurai\bin\Debug\net6.0\Wizard_Ninja_Samurai.exe
+C:\Users\Shaun\OneDrive\Desktop\Coding_Dojo\C#_Stack\Core_Assignments\Wizard_Ninja_Samurai\bin\Debug\net6.0\Wizard_Ninja_Samurai.deps.json
+C:\Users\Shaun\OneDrive\Desktop\Coding_Dojo\C#_Stack\Core_Assignments\Wizard_Ninja_Samurai\bin\Debug\net6.0\Wizard_Ninja_Samurai.runtimeconfig.json
+C:\Users\Shaun\OneDrive\Desktop\Coding_Dojo\C#_Stack\Core_Assignments\Wizard_Ninja_Samurai\bin\Debug\net6.0\Wizard_Ninja_Samurai.dll
+C:\Users\Shaun\OneDrive\Desktop\Coding_Dojo\C#_Stack\Core_Assignments\Wizard_Ninja_Samurai\bin\Debug\net6.0\Wizard_Ninja_Samurai.pdb
+C:\Users\Shaun\OneDrive\Desktop\Coding_Dojo\C#_Stack\Core_Assignments\Wizard_Ninja_Samurai\obj\Debug\net6.0\Wizard_Ninja_Samurai.csproj.AssemblyReference.cache
+C:\Users\Shaun\OneDrive\Desktop\Coding_Dojo\C#_Stack\Core_Assignments\Wizard_Ninja_Samurai\obj\Debug\net6.0\Wizard_Ninja_Samurai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaun\OneDrive\Desktop\Coding_Dojo\C#_Stack\Core_Assignments\Wizard_Ninja_Samurai\obj\Debug\net6.0\Wizard_Ninja_Samurai.AssemblyInfoInputs.cache
+C:\Users\Shaun\OneDrive\Desktop\Coding_Dojo\C#_Stack\Core_Assignments\Wizard_Ninja_Samurai\obj\Debug\net6.0\Wizard_Ninja_Samurai.AssemblyInfo.cs
+C:\Users\Shaun\OneDrive\Desktop\Coding_Dojo\C#_Stack\Core_Assignments\Wizard_Ninja_Samurai\obj\Debug\net6.0\Wizard_Ninja_Samurai.csproj.CoreCompileInputs.cache
+C:\Users\Shaun\OneDrive\Desktop\Coding_Dojo\C#_Stack\Core_Assignments\Wizard_Ninja_Samurai\obj\Debug\net6.0\Wizard_Ninja_Samurai.dll
+C:\Users\Shaun\OneDrive\Desktop\Coding_Dojo\C#_Stack\Core_Assignments\Wizard_Ninja_Samurai\obj\Debug\net6.0\refint\Wizard_Ninja_Samurai.dll
+C:\Users\Shaun\OneDrive\Desktop\Coding_Dojo\C#_Stack\Core_Assignments\Wizard_Ninja_Samurai\obj\Debug\net6.0\Wizard_Ninja_Samurai.pdb
+C:\Users\Shaun\OneDrive\Desktop\Coding_Dojo\C#_Stack\Core_Assignments\Wizard_Ninja_Samurai\obj\Debug\net6.0\Wizard_Ninja_Samurai.genruntimeconfig.cache
+C:\Users\Shaun\OneDrive\Desktop\Coding_Dojo\C#_Stack\Core_Assignments\Wizard_Ninja_Samurai\obj\Debug\net6.0\ref\Wizard_Ninja_Samurai.dll
