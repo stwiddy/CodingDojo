@@ -1,0 +1,13 @@
+@{
+    ViewData["Title"] = "Random Password Generator";
+}
+@model Password
+
+<form asp-controller="Home" asp-action="Generate" method="POST">
+    <div>
+        <div>Random Generated Password #@Context.Session.GetInt32("Count")</div>
+        <div>@Context.Session.GetString("tempPassword")</div>
+    </div>
+    <button>Generate Password</button>
+</form>
+

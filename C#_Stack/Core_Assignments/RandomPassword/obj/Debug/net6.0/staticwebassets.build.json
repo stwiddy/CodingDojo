@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "UFadJuVbVrlk7EVP9YC+MP2RHWsQuYqi0vxX+rRQC1w=",
+  "Source": "RandomPassword",
+  "BasePath": "_content/RandomPassword",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RandomPassword\\wwwroot",
+      "Source": "RandomPassword",
+      "ContentRoot": "C:\\Users\\Shaun\\OneDrive\\Desktop\\Coding_Dojo\\C#_Stack\\Core_Assignments\\RandomPassword\\wwwroot\\",
+      "BasePath": "_content/RandomPassword",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
